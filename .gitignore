@@ -1,0 +1,4 @@
+.venv/
+perfil.json
+dados/
+__pycache__/
